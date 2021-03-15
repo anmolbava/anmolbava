@@ -1,4 +1,4 @@
-- Link to my GITHUB Profile - https://github.com/anmolbava?tab=repositories
+- Link to my GITHUB Projects and Repositories - https://github.com/anmolbava?tab=repositories
 - 👋 Hi, I’m @anmolbava
 - 👀 I’m interested in competitive coding, Software Development and Penetration Testing..
 - 🌱 I’m currently pursuing Offensive security Certified Professional Certification and learning more about Data Strcutures and Algorithms as well as Competitive coding.
