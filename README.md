@@ -1,4 +1,4 @@
-- Link to my GITHUB Profile -
+- Link to my GITHUB Profile - https://github.com/anmolbava?tab=repositories
 - 👋 Hi, I’m @anmolbava
 - 👀 I’m interested in competitive coding, Software Development and Penetration Testing..
 - 🌱 I’m currently pursuing Offensive security Certified Professional Certification and learning more about Data Strcutures and Algorithms as well as Competitive coding.
@@ -7,6 +7,6 @@
 -
 
 
-I am fluent in Python and have used Java during my Bachelor's.
+I am fluent in Python and have used Java,C ,C++ during my Bachelor's.
 Looking for opportunities in Software Development, Software Engineering and Penetration Testing.
  
