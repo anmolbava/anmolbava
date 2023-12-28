@@ -3,7 +3,7 @@
 - 👀 I’m interested in competitive coding, Software Development and Penetration Testing..
 - 🌱 I’m currently pursuing Offensive security Certified Professional Certification and learning more about Data Strcutures and Algorithms as well as Competitive coding.
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 You can reach me on Linkedin - https://www.linkedin.com/in/anmol-bava/
+- 📫 You can reach out me on Linkedin - https://www.linkedin.com/in/anmol-bava/
 -
 
 
