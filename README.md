@@ -1,12 +1,8 @@
 - Link to my GITHUB Projects and Repositories - https://github.com/anmolbava?tab=repositories
 - 👋 Hi, I’m @anmolbava
-- 👀 I’m interested in competitive coding, Software Development and Penetration Testing..
-- 🌱 I’m currently pursuing Offensive security Certified Professional Certification and learning more about Data Strcutures and Algorithms as well as Competitive coding.
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 Experienced Cyber Security Professional with 3 years of experience in Offensive Security and Cyber Security as a whole.
+- 🌱 My motto for in depth understanding for upcoming technologies is "code it then break it"
+- 💞️ I’m looking to collaborate on Open Source Projects related to Python/Django.
 - 📫 You can reach out me on Linkedin - https://www.linkedin.com/in/anmol-bava/
--
 
-
-I am fluent in Python and have used Java,C ,C++ during my Bachelor's.
-Looking for opportunities in Software Development, Software Engineering and Penetration Testing.
  
